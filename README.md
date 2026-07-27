@@ -21,6 +21,21 @@ This platform uses **Machine Learning** to predict churn, measure customer risk,
 
 ---
 
+# ❗ Problem Solved
+
+Many businesses lose customers without knowing **who is likely to leave** or **when to take action**.
+
+This project solves that problem by using **Machine Learning** to:
+
+* 🎯 Predict customer churn
+* 📊 Estimate churn probability
+* 🚦 Classify customers into Low, Medium, or High Risk
+* 💡 Provide actionable business recommendations
+
+This enables businesses to make **data-driven decisions**, improve customer retention, and reduce revenue loss.
+
+---
+
 # 📖 Overview
 
 The **Enterprise Customer Intelligence Platform (ECIP)** is an end-to-end Machine Learning project designed to predict whether a customer is likely to churn based on purchasing behavior and customer activity.

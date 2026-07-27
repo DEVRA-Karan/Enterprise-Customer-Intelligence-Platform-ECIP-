@@ -218,7 +218,7 @@ streamlit run app.py
 
 💻 Python Developer
 
-📊 Data Analytics Learner
+📊 Data Scientist Learner
 
 🌐 Passionate about Building AI-Powered Business Solutions
 

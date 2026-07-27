@@ -10,7 +10,12 @@
 
 
 
-\
+# 💡 Why This Project?
+
+Businesses often struggle to identify customers who are likely to churn.
+
+This platform uses **Machine Learning** to predict churn, measure customer risk, and provide intelligent business recommendations—helping organizations improve customer retention and make smarter decisions.
+
 
 </p>
 

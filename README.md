@@ -116,7 +116,6 @@ Enterprise Customer Intelligence Platform
 ├── screenshots/
 │   ├── home.png
 │   ├── low_risk.png
-│   ├── medium_risk.png
 │   ├── high_risk.png
 │   └── shap_summary.png
 │
